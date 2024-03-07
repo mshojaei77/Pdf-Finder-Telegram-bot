@@ -28,7 +28,7 @@ Before running the bot, make sure you have the following:
 2. Install the required Python packages:
 
    ```
-   pip install telebot googlesearch
+   pip install telebot googlesearch-python
    ```
 
 3. Set up the environment variable for your Telegram Bot API token:
