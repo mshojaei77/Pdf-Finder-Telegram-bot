@@ -13,8 +13,6 @@ This is a Telegram bot that allows users to search for book PDFs by entering the
 <img src="https://github.com/mshojaei77/Pdf-Finder-Telegram-bot/assets/76538971/03b280c8-7005-4549-8274-3938e329c4cb" alt="Image description" width="400" height="300">
 
 
-[ t.me/PDFFinder_robot](https://t.me/PDFFinder_robot)
-
 ## Prerequisites
 
 Before running the bot, make sure you have the following:
